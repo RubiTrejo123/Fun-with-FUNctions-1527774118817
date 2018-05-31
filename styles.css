@@ -1,0 +1,15 @@
+.buttons {
+    display: flex;
+    justify-content: space-around;
+    padding: 25px;
+}
+
+button {
+    display: block;
+    padding: 15px;
+    background: black;
+    color: white;
+    font-size: 16px;
+    border: 0px;
+    border-radius: 5px;
+}
